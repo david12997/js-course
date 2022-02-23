@@ -1,2 +1,2 @@
-# js-course
+# Javascript course
 javascript course fundamentals
