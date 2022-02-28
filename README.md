@@ -1,2 +1,2 @@
-# js-course
-this is a  javascript  course's code 
+# Javascript course
+javascript course fundamentals
